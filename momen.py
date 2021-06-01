@@ -3,7 +3,7 @@ from tkinter import ttk
 from tkinter import messagebox
 import pymysql
 
-
+#Student Managment system
 
 # main  
 class Student:
